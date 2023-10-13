@@ -3,14 +3,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/popupRoot"
     android:background="#000"
-    android:layout_width="350dp"
+    android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:layout_gravity="center"
     android:padding="1dp"
     tools:context="net.streletsky.devicesettings.MainActivity">
 
     <LinearLayout
-        android:background="#fff"
+        android:background="#f2f3f4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
